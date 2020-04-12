@@ -2,6 +2,6 @@
 include("menu.php");
 ?>
 <title>Modularitas</title>
-<p>Ii adalah halaman about</p>
+<p>Ini adalah halaman about</p>
 </body>
 </html>
